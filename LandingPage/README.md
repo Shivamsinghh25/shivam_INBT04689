@@ -1,6 +1,6 @@
 # Your Full-Growth Agency
 
-It is a fully responsive landing page of digital marketing with Newsletter Sign-Up, built using HTML and CSS.
+It is a fully responsive landing page of digital marketing with Newsletter Sign-Up, built using HTML, CSS and JavaScript.
 
 # Demo Screenshots
 
